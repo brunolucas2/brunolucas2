@@ -1,7 +1,7 @@
 # 🧑‍💻 Bruno Lucas
 **`Back-End Developer | Em formação`**
 
-Me chamo Bruno Lucas, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no Senai em Recife. Sou fascinado pelo mundo da computação e também por tudo que ele pode proporcionar. Meu combustível é o aprendizado constante — seja aprendendo novas tecnologias ou descobrindo novas formas de usar as que já domino.
+Me chamo Bruno Lucas, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no Senai em Recife. Sou fascinado pelo mundo da computação e tudo que ele pode proporcionar. Meu combustível é o aprendizado constante — seja aprendendo novas tecnologias ou descobrindo novas formas de usar as que já domino.
 
 ---
 
